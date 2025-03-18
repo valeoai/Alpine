@@ -1,6 +1,6 @@
 # Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training
 
-Official implementation of the method **ALPINE**. Check out the article for more details!
+Official implementation of the method **ALPINE**. Check out the [article](https://arxiv.org/abs/2503.13203) for more details!
 
 **Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**,
 by *Corentin Sautier, Gilles Puy, Alexandre Boulch, Renaud Marlet, and Vincent Lepetit*
