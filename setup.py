@@ -24,15 +24,6 @@ from setuptools import find_packages
 setup(
     name="alpine",
     version="1.0.0",
-    # packages=["alpine"],
-    # py_modules=["alpine"],
-    # install_requires=[
-    #     "numpy",
-    #     "scipy",
-    # ],
-    # package_data={
-    #     "utils": ["*.py"],  # Ensures all Python files in utils/ are included
-    # },
     packages=find_packages(include=["alpine", "alpine.*"]), 
     author="Corentin Sautier",
     description="Clustering as described in the paper 'Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training'",
