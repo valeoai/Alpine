@@ -2,6 +2,8 @@
 
 Official implementation of the method **ALPINE**. Check out the [article](https://arxiv.org/abs/2503.13203) for more details!
 
+🔥 ALPINE reached the first place on the [Panoptic benchmark of SemanticKITTI](https://codalab.lisn.upsaclay.fr/competitions/7092#results), using [UniSeg](https://arxiv.org/abs/2304.03493) semantic predictions.
+
 **Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**,
 by *Corentin Sautier, Gilles Puy, Alexandre Boulch, Renaud Marlet, and Vincent Lepetit*
 
@@ -14,7 +16,7 @@ If you use ALPINE in your research, please cite:
 @article{sautier2025alpine,
   title = {Clustering is back: Reaching state-of-the-art {LiDAR} instance segmentation without training},
   author = {Corentin Sautier and Gilles Puy and Alexandre Boulch and Renaud Marlet and Vincent Lepetit},
-  journal={arxiv},
+  journal={arxiv:2503.13203},
   year = {2025}
 }
 ```
